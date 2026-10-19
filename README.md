@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @mavasbel
-<!---- 👀 I’m interested in ... AI, ML, Generative Models, AWS, DevOps, Start-ups
-- 🌱 I’m currently learning ... AI, ML, Generative Models
-- 💞️ I’m looking to collaborate on ... entrepreneurship, research & development -->
-- 📫 Connect with me in ...
--     linkedin: www.linkedin.com/in/marco-vasquez-beltran/
--     codesignal: app.codesignal.com/profile/mavasbel
--     leetcode: https://leetcode.com/mvasbel/
-<!---
-marcovb279/marcovb279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Marco Augusto Vásquez Beltrán
+
+I teach relational and non-relational database courses at [ITAM](https://www.itam.mx/) and hold a PhD from the University of Groningen on the modelling and control of hysteresis.
+
+## Teaching
+
+Course materials and lab environments for **COM-12101 Bases de Datos** and **COM-22102 Bases de Datos No Relacionales** are maintained at [mavasbel-itam](https://github.com/mavasbel-itam).
+
+## Research
+
+Research software on hysteresis, control, machine learning, and experimental systems is maintained at [mavasbel-research](https://github.com/mavasbel-research).
+
+PhD thesis: [*Multi-loop Hysteresis and Recursive Remnant Control*](https://doi.org/10.33612/diss.215199709), University of Groningen, 2022.
+
+## Developer tools
+
+Independent developer tools and AI coding-agent integrations are maintained at [mavasbel-devtools](https://github.com/mavasbel-devtools).

@@ -1,6 +1,6 @@
 # Marco Vásquez Beltrán
 
-Software engineer building developer tooling, AI coding-agent integrations, data-platform lab environments, and scientific computing software.
+Researcher, software engineer, and adjunct professor, focused on mathematical modelling, dynamical and control systems, machine learning, and AI.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6199--9813-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6199-9813)
 [![LeetCode](https://img.shields.io/badge/LeetCode-mvasbel-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/mvasbel/)
@@ -21,7 +21,7 @@ Software engineer building developer tooling, AI coding-agent integrations, data
 
 ### 🔬 Research
 
-Research software for hysteresis modelling, remnant control, and adaptive optics, from the PhD thesis [*Multi-loop Hysteresis and Recursive Remnant Control*](https://doi.org/10.33612/diss.215199709) (University of Groningen, 2022).
+Research software from my PhD thesis [*Multi-loop Hysteresis and Recursive Remnant Control*](https://doi.org/10.33612/diss.215199709) (University of Groningen, 2022).
 
 <details>
 <summary><b>Selected publications</b></summary>

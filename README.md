@@ -44,7 +44,7 @@ Research software for hysteresis modelling, remnant control, and adaptive optics
 Lab environments and course exercises for [ITAM](https://www.itam.mx/):
 
 - **COM-12101 Bases de Datos**: PostgreSQL 18 lab with eight datasets, plus FastAPI and SQLAlchemy API exercises.
-- **COM-22102 Bases de Datos No Relacionales**: notebook-generated clusters for Cassandra, MongoDB, Hadoop, Hive, Spark, OpenSearch, Redis, and Neo4j.
+- **COM-22102 Bases de Datos No Relacionales**: notebook-generated clusters for Cassandra, MongoDB, Hadoop, Hive, Spark, OpenSearch, Redis, and Neo4j, plus consumers for 73 public real-time data streams for the final project.
 
 ---
 
@@ -54,5 +54,6 @@ Lab environments and course exercises for [ITAM](https://www.itam.mx/):
 |:---|:---|
 | Languages | TypeScript · Python · MATLAB · Go · Java · C++ |
 | Data | PostgreSQL · MongoDB · Cassandra · Neo4j · Redis · OpenSearch · Spark · Hadoop / Hive |
+| Messaging | Kafka · MQTT · NATS · ZeroMQ |
 | Frameworks | FastAPI · SQLAlchemy · TensorFlow · PyTorch · Vue / Slidev · Angular · React |
 | Infrastructure | Docker · Docker Compose · Linux · Jupyter |

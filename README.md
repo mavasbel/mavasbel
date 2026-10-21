@@ -12,10 +12,10 @@ Software engineer building developer tooling, AI coding-agent integrations, data
 
 | Organization | Focus | Main technologies |
 |:---|:---|:---|
-| 🛠️ [**mavasbel-devtools**](https://github.com/mavasbel-devtools) | OpenCode provider and session plugins, a local LLM router, and MCP servers | TypeScript, Go, Python |
+| 🛠️ [**mavasbel-devtools**](https://github.com/mavasbel-devtools) | Fork of OpenCode for upstream contributions | TypeScript |
 | 🔬 [**mavasbel-research**](https://github.com/mavasbel-research) | Hysteresis modelling and control, deformable mirrors, model-order reduction | MATLAB / Simulink, Python, C++ |
 | 🎓 [**mavasbel-itam**](https://github.com/mavasbel-itam) | Lab environments and exercises for relational and non-relational database courses | PostgreSQL, MongoDB, Cassandra, Spark, Docker |
-| 📦 [**mavasbel-legacy**](https://github.com/mavasbel-legacy) | Earlier prototypes and learning exercises (2021–2022) | Java, Angular, React, Haskell |
+| 📦 [**mavasbel-legacy**](https://github.com/mavasbel-legacy) | Earlier prototypes and learning exercises (2021–2022) | Java, Python |
 
 ---
 
@@ -52,8 +52,8 @@ Lab environments and course exercises for [ITAM](https://www.itam.mx/):
 
 | Area | Tools |
 |:---|:---|
-| Languages | TypeScript · Python · MATLAB · Go · Java · C++ |
+| Languages | TypeScript · Python · MATLAB · Java · C++ |
 | Data | PostgreSQL · MongoDB · Cassandra · Neo4j · Redis · OpenSearch · Spark · Hadoop / Hive |
 | Messaging | Kafka · MQTT · NATS · ZeroMQ |
-| Frameworks | FastAPI · SQLAlchemy · TensorFlow · PyTorch · Vue / Slidev · Angular · React |
+| Frameworks | FastAPI · SQLAlchemy · TensorFlow · PyTorch · Spring Boot |
 | Infrastructure | Docker · Docker Compose · Linux · Jupyter |

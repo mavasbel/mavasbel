@@ -12,7 +12,7 @@ Researcher, software engineer, and adjunct professor, focused on mathematical mo
 
 | Organization | Focus | Main technologies |
 |:---|:---|:---|
-| 🛠️ [**mavasbel-devtools**](https://github.com/mavasbel-devtools) | Fork of OpenCode for upstream contributions | TypeScript |
+| 🛠️ [**mavasbel-devtools**](https://github.com/mavasbel-devtools) | Forks of OpenCode and Puppeteer for upstream contributions | TypeScript |
 | 🔬 [**mavasbel-research**](https://github.com/mavasbel-research) | Hysteresis modelling and control, deformable mirrors, model-order reduction | MATLAB / Simulink, Python, C++ |
 | 🎓 [**mavasbel-itam**](https://github.com/mavasbel-itam) | Lab environments and exercises for relational and non-relational database courses | PostgreSQL, MongoDB, Cassandra, Spark, Docker |
 | 📦 [**mavasbel-legacy**](https://github.com/mavasbel-legacy) | Earlier prototypes and learning exercises (2021–2022) | Java, Python |
@@ -21,7 +21,7 @@ Researcher, software engineer, and adjunct professor, focused on mathematical mo
 
 ### 🔬 Research
 
-Research software from my PhD thesis [*Multi-loop Hysteresis and Recursive Remnant Control*](https://doi.org/10.33612/diss.215199709) (University of Groningen, 2022).
+Research software from my PhD thesis [*Multi-loop Hysteresis and Recursive Remnant Control*](https://doi.org/10.33612/diss.215199709) (University of Groningen, 2022), plus later work on model-order reduction for sampled-data control (2023).
 
 <details>
 <summary><b>Selected publications</b></summary>

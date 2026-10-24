@@ -2,6 +2,8 @@
 
 Researcher, software engineer, and adjunct professor, focused on mathematical modelling, dynamical and control systems, machine learning, and AI.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marco--vasquez--beltran-0A66C2?style=flat-square)](https://www.linkedin.com/in/marco-vasquez-beltran)
+[![X](https://img.shields.io/badge/X-%40mvasbel-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mvasbel)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6199--9813-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6199-9813)
 [![LeetCode](https://img.shields.io/badge/LeetCode-mvasbel-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/mvasbel/)
 [![GitHub followers](https://img.shields.io/github/followers/mavasbel?style=flat-square&label=Followers&color=24292f&logo=github)](https://github.com/mavasbel?tab=followers)
@@ -16,6 +18,14 @@ Researcher, software engineer, and adjunct professor, focused on mathematical mo
 | 🔬 [**mavasbel-research**](https://github.com/mavasbel-research) | Hysteresis modelling and control, deformable mirrors, model-order reduction | MATLAB / Simulink, Python, C++ |
 | 🎓 [**mavasbel-itam**](https://github.com/mavasbel-itam) | Lab environments and exercises for relational and non-relational database courses | PostgreSQL, MongoDB, Cassandra, Spark, Docker |
 | 📦 [**mavasbel-legacy**](https://github.com/mavasbel-legacy) | Earlier prototypes and learning exercises (2021–2022) | Java, Python |
+
+---
+
+### 🤝 Open-source contributions
+
+| Project | Contribution | Status |
+|:---|:---|:---|
+| [**puppeteer/puppeteer**](https://github.com/puppeteer/puppeteer) | [#15631](https://github.com/puppeteer/puppeteer/pull/15631): fix a request leak in the WebDriver BiDi network layer for HTTP 304 and 3xx responses without a `Location` header ([#15630](https://github.com/puppeteer/puppeteer/issues/15630)) | Merged (2026-10-24) |
 
 ---
 

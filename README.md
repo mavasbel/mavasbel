@@ -1,69 +1,36 @@
-# Marco Vásquez Beltrán
+# mavasbel
 
-Researcher, software engineer, and adjunct professor, focused on mathematical modelling, dynamical and control systems, machine learning, and AI.
+Control systems, formal methods, and developer tooling — Lean 4 hysteresis research, ITAM databases teaching, and MCP devtools.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marco--vasquez--beltran-0A66C2?style=flat-square)](https://www.linkedin.com/in/marco-vasquez-beltran)
-[![X](https://img.shields.io/badge/X-%40mvasbel-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mvasbel)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6199--9813-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6199-9813)
-[![LeetCode](https://img.shields.io/badge/LeetCode-mvasbel-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/mvasbel/)
-[![GitHub followers](https://img.shields.io/github/followers/mavasbel?style=flat-square&label=Followers&color=24292f&logo=github)](https://github.com/mavasbel?tab=followers)
+Status: personal profile — index only, no install.
 
----
+## Flagships
 
-### 🏛️ Organizations
+| Repository | What |
+|---|---|
+| [non-relational-dbs-labs-setup](https://github.com/mavasbel-itam/non-relational-dbs-labs-setup) | COM-22102 non-relational labs: Cassandra, MongoDB, Hadoop, Hive, Spark, OpenSearch, Redis, Neo4j. |
+| [lean-recursive-remnant-preisach](https://github.com/mavasbel-research/lean-recursive-remnant-preisach) | Lean 4 verification of hysteresis operators and recursive remnant control. |
+| [lean-butterfly-multiloop-characterization](https://github.com/mavasbel-research/lean-butterfly-multiloop-characterization) | Lean 4 / Mathlib formalization of butterfly and multiloop hysteresis (IEEE TAC 2022). |
+| [matlab-preisach-model](https://github.com/mavasbel-research/matlab-preisach-model) | Preisach operator: fitting, Simulink models, remnant ILC experiments. |
+| [deformable_mirror](https://github.com/mavasbel-research/deformable_mirror) | Hysteretic deformable-mirror simulation: influence matrices, Preisach actuators. |
+| [accounts-proxy](https://github.com/mavasbel-devtools/accounts-proxy) | Local LLM proxy for Anthropic, OpenAI, Gemini, and OpenRouter endpoints. |
+| [postgres-mcp](https://github.com/mavasbel-devtools/postgres-mcp) | Read-only-by-default PostgreSQL MCP server with layered write gate. |
+| [opencode-session-manager](https://github.com/mavasbel-devtools/opencode-session-manager) | Opencode session tools: TUI browser, Magic Context sync, offline compaction. |
 
-| Organization | Focus | Main technologies |
-|:---|:---|:---|
-| 🛠️ [**mavasbel-devtools**](https://github.com/mavasbel-devtools) | Forks of OpenCode and Puppeteer for upstream contributions | TypeScript |
-| 🔬 [**mavasbel-research**](https://github.com/mavasbel-research) | Hysteresis modelling and control, deformable mirrors, model-order reduction | MATLAB / Simulink, Python, C++ |
-| 🎓 [**mavasbel-itam**](https://github.com/mavasbel-itam) | Lab environments and exercises for relational and non-relational database courses | PostgreSQL, MongoDB, Cassandra, Spark, Docker |
-| 📦 [**mavasbel-legacy**](https://github.com/mavasbel-legacy) | Earlier prototypes and learning exercises (2021–2022) | Java, Python |
+## Organizations
 
----
+- [mavasbel-itam](https://github.com/mavasbel-itam) — databases teaching (labs, exercises, stream tooling).
+- [mavasbel-research](https://github.com/mavasbel-research) — hysteresis research (Lean 4, MATLAB, ML).
+- [mavasbel-devtools](https://github.com/mavasbel-devtools) — MCP servers, opencode plugins, infra tools.
+- [mavasbel-legacy](https://github.com/mavasbel-legacy) — archived and early-career prototypes.
+- [mavasbel-labs](https://github.com/mavasbel-labs) — private applied builds (video, streams).
+- [mavasbel-cloudmesh](https://github.com/mavasbel-cloudmesh) — private infrastructure configs.
 
-### 🤝 Open-source contributions
+## Honesty notes
 
-| Project | Contribution | Status |
-|:---|:---|:---|
-| [**puppeteer/puppeteer**](https://github.com/puppeteer/puppeteer) | [#15631](https://github.com/puppeteer/puppeteer/pull/15631): fix a request leak in the WebDriver BiDi network layer for HTTP 304 and 3xx responses without a `Location` header ([#15630](https://github.com/puppeteer/puppeteer/issues/15630)) | Merged (2026-10-24) |
+- Course repos (ITAM `api-*`, `*-labs-setup`, `stream-consumers`) are teaching exercises and instructor tooling, not production services.
+- Forks ([veir](https://github.com/mavasbel/veir), [Mailu](https://github.com/mavasbel/Mailu)) and mirrors attribute their upstreams and claim no ownership of upstream work.
 
----
+## Links
 
-### 🔬 Research
-
-Research software from my PhD thesis [*Multi-loop Hysteresis and Recursive Remnant Control*](https://doi.org/10.33612/diss.215199709) (University of Groningen, 2022), plus later work on model-order reduction for sampled-data control (2023).
-
-<details>
-<summary><b>Selected publications</b></summary>
-<br>
-
-| Year | Title | Venue |
-|:---:|:---|:---|
-| 2023 | [Modeling and Analysis of Duhem Hysteresis Operators With Butterfly Loops](https://doi.org/10.1109/TAC.2023.3238177) | IEEE Transactions on Automatic Control |
-| 2022 | [On the Characterization of Butterfly and Multiloop Hysteresis Behavior](https://doi.org/10.1109/TAC.2021.3109533) | IEEE Transactions on Automatic Control |
-| 2021 | [Recursive Algorithm for the Control of Output Remnant of Preisach Hysteresis Operator](https://doi.org/10.1109/LCSYS.2020.3009423) | IEEE Control Systems Letters |
-| 2020 | [Influence functions for a hysteretic deformable mirror with a high-density 2D array of actuators](https://doi.org/10.1364/AO.397472) | Applied Optics |
-| 2020 | [Asymptotic Stability Analysis of Lur'e Systems With Butterfly Hysteresis Nonlinearities](https://doi.org/10.1109/LCSYS.2019.2921850) | IEEE Control Systems Letters |
-
-</details>
-
----
-
-### 🎓 Teaching
-
-Lab environments and course exercises for [ITAM](https://www.itam.mx/):
-
-- **COM-12101 Bases de Datos**: PostgreSQL 18 lab with eight datasets, plus FastAPI and SQLAlchemy API exercises.
-- **COM-22102 Bases de Datos No Relacionales**: notebook-generated clusters for Cassandra, MongoDB, Hadoop, Hive, Spark, OpenSearch, Redis, and Neo4j, plus consumers for 73 public real-time data streams for the final project.
-
----
-
-### 🧰 Technologies
-
-| Area | Tools |
-|:---|:---|
-| Languages | TypeScript · Python · MATLAB · Java · C++ |
-| Data | PostgreSQL · MongoDB · Cassandra · Neo4j · Redis · OpenSearch · Spark · Hadoop / Hive |
-| Messaging | Kafka · MQTT · NATS · ZeroMQ |
-| Frameworks | FastAPI · SQLAlchemy · TensorFlow · PyTorch · Spring Boot |
-| Infrastructure | Docker · Docker Compose · Linux · Jupyter |
+- [mavasbel profile](https://github.com/mavasbel)
